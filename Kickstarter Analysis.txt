@@ -1,0 +1,19 @@
+Kickstarter Analysis 
+
+Conclusions: 
+	▪	The date that a kickstarter campaign being or ends does not affect its outcome.
+	▪	Kickstarter campaigns higher then 50k have the lowest chance of success at 19%. 
+	▪	Kickstarter campaigns between 1k to 5k have the highest chance of success at 66%.
+	▪	Kickstarter Campaigns with a Category of Theater  and a Sub-Category of Plays seem to be the most funded campaigns.
+
+Some of the limitations of the data set worked with are: 
+	▪	lack of demographic of the consumer that funds a kickstarter campaign. 
+	▪	lack of fund creator’s marketing budget 
+	▪	lack of understanding of fund creator’s demographic and experience 
+	▪	amount of kickstarter campaigns that were returning more then once
+
+Other tables that could have been created: 
+	▪	Percentage of successful, failed, and canceled kickstarter campaigns by category and sub-category 
+	▪	Average donation type by category and sub-category 
+
+
